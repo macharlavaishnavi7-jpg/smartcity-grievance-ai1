@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": "Roads and potholes",
+      "description": "Issues involving damaged roads, potholes, unsafe road surfaces, and damaged footpaths.",
+      "general_process": [
+        "Identify the road or local area where the issue exists.",
+        "Check the official website or citizen service portal of the relevant municipal or road authority.",
+        "Review the official instructions for the appropriate grievance category and required information."
+      ],
+      "safety_note": "Avoid entering traffic or standing in unsafe areas to collect information."
+    },
+    {
+      "name": "Water supply",
+      "description": "Issues involving interrupted water supply, leaking public pipelines, or water quality concerns.",
+      "general_process": [
+        "Identify the affected locality and the type of water supply issue.",
+        "Consult the official water utility or municipal authority website.",
+        "Follow the authority's published guidance for the relevant issue."
+      ],
+      "safety_note": "Avoid drinking water that may be contaminated until you have followed guidance from the relevant public health or water authority."
+    },
+    {
+      "name": "Electricity",
+      "description": "Issues involving power interruptions, damaged public electrical equipment, or electrical hazards.",
+      "general_process": [
+        "Identify whether the issue concerns a local outage, damaged equipment, or an immediate electrical hazard.",
+        "Consult the official electricity distribution company's website for outage and service guidance.",
+        "Follow the published instructions for contacting the responsible utility."
+      ],
+      "safety_note": "Never touch fallen wires or damaged electrical equipment. Keep away and contact the appropriate emergency or utility service."
+    },
+    {
+      "name": "Sanitation and waste",
+      "description": "Issues involving uncollected waste, overflowing public bins, blocked public drains, or sanitation concerns.",
+      "general_process": [
+        "Identify the type of sanitation issue and the affected public area.",
+        "Consult the relevant municipal authority's official website or citizen service portal.",
+        "Check the published instructions for the appropriate service category."
+      ],
+      "safety_note": "Avoid direct contact with waste, sewage, or potentially hazardous materials."
+    }
+  ],
+  "general_disclaimer": "This information is for general guidance only. The chatbot does not register complaints, track complaint status, or guarantee resolution. Procedures may differ by location and authority. Consult official sources for current instructions."
+}
